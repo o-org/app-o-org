@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-463.000000, -7097.000000)">
+        <g id="Footer" transform="translate(-277.000000, 7014.000000)" fill="#454545">
+            <g id="social" transform="translate(734.500000, 47.000000)">
+                <g id="Icons/Social/facebook" transform="translate(6.000000, 36.000000)">
+                    <path d="M12.8610273,3.94202266 L10.5299757,3.94350686 C8.70197319,3.94350686 8.34751715,4.77614041 8.34751715,5.99763313 L8.34751715,8.69293176 L12.7077908,8.69293176 L12.1397324,12.9154673 L8.34751715,12.9154673 L8.34751715,23.7471245 L3.80150234,23.7471245 L3.80150234,12.9154673 L0,12.9154673 L0,8.69293176 L3.80150234,8.69293176 L3.80150234,5.58057425 C3.80150234,1.96655875 6.10314484,0 9.46351193,0 C11.0732686,0 12.4570402,0.114283037 12.8610273,0.166229871 L12.8610273,3.94202266 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
